@@ -1,0 +1,53 @@
+id,titulo,categoria,prioridade,status
+1,Estudar Python,Estudos,Alta,Pendente
+2,Fazer exercícios de matemática,Estudos,Média,Concluída
+3,Preparar apresentação,Trabalho,Alta,Pendente
+4,Enviar relatório mensal,Trabalho,Média,Concluída
+5,Organizar documentos,Pessoal,Baixa,Pendente
+6,Ler capítulo do livro,Estudos,Média,Pendente
+7,Responder e-mails,Trabalho,Alta,Concluída
+8,Fazer compras,Pessoal,Baixa,Concluída
+9,Estudar Pandas,Estudos,Alta,Pendente
+10,Limpar o quarto,Pessoal,Média,Concluída
+11,Criar planilha de vendas,Trabalho,Alta,Pendente
+12,Revisar conteúdo da prova,Estudos,Alta,Concluída
+13,Agendar consulta,Pessoal,Média,Pendente
+14,Participar de reunião,Trabalho,Alta,Concluída
+15,Fazer resumo da matéria,Estudos,Média,Pendente
+16,Pagar contas,Pessoal,Alta,Concluída
+17,Atualizar sistema,Trabalho,Alta,Pendente
+18,Assistir aula gravada,Estudos,Baixa,Concluída
+19,Organizar agenda,Pessoal,Média,Pendente
+20,Corrigir planilhas,Trabalho,Média,Concluída
+21,Estudar Tkinter,Estudos,Alta,Pendente
+22,Caminhar no parque,Pessoal,Baixa,Concluída
+23,Desenvolver interface gráfica,Trabalho,Alta,Pendente
+24,Fazer atividade prática,Estudos,Média,Concluída
+25,Separar documentos pessoais,Pessoal,Baixa,Pendente
+26,Analisar dados de vendas,Trabalho,Alta,Concluída
+27,Resolver lista de exercícios,Estudos,Alta,Pendente
+28,Lavar roupa,Pessoal,Média,Concluída
+29,Testar aplicação,Trabalho,Alta,Pendente
+30,Revisar anotações,Estudos,Baixa,Concluída
+31,Arrumar mesa de trabalho,Pessoal,Baixa,Pendente
+32,Criar relatório de desempenho,Trabalho,Média,Concluída
+33,Estudar MVC,Estudos,Alta,Pendente
+34,Fazer backup dos arquivos,Pessoal,Média,Concluída
+35,Atualizar cadastro de clientes,Trabalho,Alta,Pendente
+36,Ler artigo científico,Estudos,Média,Concluída
+37,Organizar materiais,Pessoal,Baixa,Pendente
+38,Planejar projeto,Trabalho,Alta,Concluída
+39,Praticar programação,Estudos,Alta,Pendente
+40,Comprar material escolar,Pessoal,Média,Concluída
+41,Criar gráfico de produtividade,Trabalho,Média,Pendente
+42,Pesquisar nova tecnologia,Estudos,Alta,Concluída
+43,Fazer limpeza geral,Pessoal,Baixa,Pendente
+44,Revisar código-fonte,Trabalho,Alta,Concluída
+45,Estudar banco de dados,Estudos,Alta,Pendente
+46,Organizar arquivos digitais,Pessoal,Média,Concluída
+47,Preparar documentação,Trabalho,Média,Pendente
+48,Treinar exercícios de lógica,Estudos,Alta,Concluída
+49,Planejar metas da semana,Pessoal,Média,Pendente
+50,Finalizar projeto,Trabalho,Alta,Concluída
+51,Estudar para o Enem,Estudos,Alta,Pendente
+52,Aprender códigos,Estudos,Alta,Pendente
